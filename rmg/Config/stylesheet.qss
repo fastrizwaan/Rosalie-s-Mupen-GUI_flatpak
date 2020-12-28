@@ -1,0 +1,9 @@
+/* Rosalie's Mupen GUI Stylesheet */
+
+QTableView
+{
+    border: none;
+    color: #0096d3;
+    selection-color: #FFFFFF;
+    selection-background-color: #0096d3;
+}
